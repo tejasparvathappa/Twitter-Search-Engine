@@ -1,0 +1,2 @@
+# Twitter-Search-Engine
+This model takes multiple inputs like username initials, language, date and retrieves relevant users and their tweets. Score is assigned to each username search result on the basis of relevance and the result is displayed in order of the same. This system uses Inverted Index to generate postings list of users. It also uses ranked search to rank users according to order of relevance.  The dataset is obtanined from mutiple sources: Kaggle and KDNuggets.
